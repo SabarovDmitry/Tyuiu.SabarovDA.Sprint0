@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tyuiu.SabarovDA.Srint0.Task1.V0
+namespace Tyuiu.SabarovDA.Sprint0.Task1.V0
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World");
+            Console.WriteLine("Hello, World!");
             string name = "Дмитрий";
             int age = 18;
-            Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет !");
+            Console.WriteLine("Здравствуйте меня зовут" + name + " мне" + age + "лет!");
             Console.ReadKey();
         }
     }

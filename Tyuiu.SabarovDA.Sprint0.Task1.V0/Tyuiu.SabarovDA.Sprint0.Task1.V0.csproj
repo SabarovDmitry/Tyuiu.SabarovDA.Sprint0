@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C05034DD-F7C5-4BC8-B807-ABC510DC5746}</ProjectGuid>
+    <ProjectGuid>{70F12AAD-17BC-481F-8B72-930ABE5DB230}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.SabarovDA.Srint0.Task1.V0</RootNamespace>
-    <AssemblyName>Tyuiu.SabarovDA.Srint0.Task1.V0</AssemblyName>
+    <RootNamespace>Tyuiu.SabarovDA.Sprint0.Task1.V0</RootNamespace>
+    <AssemblyName>Tyuiu.SabarovDA.Sprint0.Task1.V0</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
